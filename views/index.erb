@@ -8,20 +8,20 @@
   </head>
   <body>
     <div class="container">
-    <div class="center-block">
+    <div class="center-block" style="width: 75%">
         <div id="content">
           <div id="apology" style="visibility: <%= apology_visibility %>">
             <blockquote>
-              <p>I'm sorry for <%= henry_did_what %>. That was messed up of me.</p>
+              <p><%= apology %></p>
               <footer>Henry</footer>
             </blockquote>
           </div>
           <form action="/" method="post">
             <div class="form-group">
-              <label for="henryDidWhat">What has Henry done this time?</label>
+              <label for="henryDidWhat"><h2>What has Henry done this time?</h2></label>
               <input type="text" class="form-control" id="henryDidWhat" name="henryDidWhat">
             </div>
-            <button type="submit" class="btn btn-default">Apologize</button>
+            <button type="submit" class="btn btn-default">Henry, you should apologize</button>
           </form>
         </div>
       </div>

@@ -1,24 +1,24 @@
 require 'sinatra'
 
 lib_path = File.expand_path('../lib', __FILE__)
-require "#{lib_path}/input_parser"
+require "#{lib_path}/apology_generator"
 
 class DamnitHenry < Sinatra::Base
   set :show_exceptions, true
 
   get '/' do
+    apology = ApologyGenerator.new.generate(params["henryDidWhat"])
     erb :index, :locals => {
       :apology_visibility => 'hidden',
-      :henry_did_what => params["henryDidWhat"]
+      :apology => apology
     }
   end
 
   post '/' do
-    puts params
-    input_parser = InputParser.new
+    apology = ApologyGenerator.new.generate(params["henryDidWhat"])
     erb :index, :locals => {
       :apology_visibility => 'visible',
-      :henry_did_what => params["henryDidWhat"]
+      :apology => apology
     }
   end
 end
