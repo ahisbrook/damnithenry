@@ -22,6 +22,10 @@ describe ApologyGenerator do
       it "should replace 'he' with 'I'" do
         expect(generator.generate('whistling while he worked')).to eq("I'm sorry for whistling while I worked. That was messed up of me.")
       end
+
+      it "should replace 'my' with 'your'" do
+        expect(generator.generate('stealing my lunch')).to eq("I'm sorry for stealing your lunch. That was messed up of me.")
+      end
     end
   end
 end

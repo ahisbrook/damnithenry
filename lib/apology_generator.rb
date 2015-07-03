@@ -16,13 +16,10 @@ class ApologyGenerator
     # replace he with I
     input.gsub!(" he ", " I ")
 
+    # replace my with your
+    input.gsub!(" my ", " your ")
+
     "I'm sorry for #{input}. That was messed up of me."
   end
 
-  private
-
-  def downcase_first_letter(input)
-    input[0] = input[0].downcase
-    input
-  end
 end
