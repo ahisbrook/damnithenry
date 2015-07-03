@@ -1,8 +1,30 @@
-<head></head>
-<body>
-  <form action="/" method="post">
-    <div>What has Henry done now?</div>
-    <input type="text" name="henry_did">
-    <input type="submit" value="Apologize">
-  </form>
-</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <div class="container">
+    <div class="center-block">
+        <div id="content">
+          <div id="apology" style="visibility: <%= apology_visibility %>">
+            <blockquote>
+              <p>I'm sorry <%= henry_did_what %>. That was messed up of me.</p>
+              <footer>Henry</footer>
+            </blockquote>
+          </div>
+          <form action="/" method="post">
+            <div class="form-group">
+              <label for="henryDidWhat">What has Henry done now?</label>
+              <input type="text" class="form-control" id="henryDidWhat" name="henryDidWhat">
+            </div>
+            <button type="submit" class="btn btn-default">Apologize</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
