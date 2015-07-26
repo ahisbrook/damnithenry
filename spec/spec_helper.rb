@@ -1,5 +1,5 @@
 lib_path = File.expand_path('../../lib', __FILE__)
-require "#{lib_path}/apology_generator"
+require "#{lib_path}/apology_generator.rb"
 
 RSpec.configure do |config|
   # Spec Filtering

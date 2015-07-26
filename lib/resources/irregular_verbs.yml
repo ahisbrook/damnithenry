@@ -1,0 +1,685 @@
+---
+- :past:
+  - abode
+  - abided
+  :present: abiding
+- :past:
+  - alit
+  - alighted
+  :present: alighting
+- :past:
+  - arose
+  :present: arising
+- :past:
+  - ate
+  :present: eating
+- :past:
+  - awoke
+  :present: awaking
+- :past:
+  - was
+  - were
+  :present: being
+- :past:
+  - bore
+  :present: bearing
+- :past:
+  - beat
+  :present: beating
+- :past:
+  - became
+  :present: becoming
+- :past:
+  - began
+  :present: beginning
+- :past:
+  - beheld
+  :present: beholding
+- :past:
+  - bent
+  :present: bending
+- :past:
+  - bet
+  :present: betting
+- :past:
+  - bade
+  :present: bidding
+- :past:
+  - bid
+  :present: bidding
+- :past:
+  - bound
+  :present: binding
+- :past:
+  - bit
+  :present: biting
+- :past:
+  - bled
+  :present: bleeding
+- :past:
+  - blew
+  :present: blowing
+- :past:
+  - broke
+  :present: breaking
+- :past:
+  - bred
+  :present: breeding
+- :past:
+  - brought
+  :present: bringing
+- :past:
+  - broadcast
+  - broadcasted
+  :present: broadcasting
+- :past:
+  - built
+  :present: building
+- :past:
+  - burnt
+  - burned
+  :present: burning
+- :past:
+  - burst
+  :present: bursting
+- :past:
+  - bust
+  :present: busting
+- :past:
+  - bought
+  :present: buying
+- :past:
+  - cast
+  :present: casting
+- :past:
+  - caught
+  :present: catching
+- :past:
+  - chose
+  :present: choosing
+- :past:
+  - clapped
+  - clapt
+  :present: clapping
+- :past:
+  - clung
+  :present: clinging
+- :past:
+  - clad
+  - clothed
+  :present: clothing
+- :past:
+  - came
+  :present: coming
+- :past:
+  - cost
+  :present: costing
+- :past:
+  - crept
+  :present: creeping
+- :past:
+  - cut
+  :present: cutting
+- :past:
+  - dared
+  - durst
+  :present: daring
+- :past:
+  - dealt
+  :present: dealing
+- :past:
+  - dug
+  :present: digging
+- :past:
+  - dived
+  - dove
+  :present: diving
+- :past:
+  - did
+  :present: doing
+- :past:
+  - drew
+  :present: drawing
+- :past:
+  - dreamt
+  - dreamed
+  :present: dreaming
+- :past:
+  - drank
+  :present: drinking
+- :past:
+  - drove
+  :present: driving
+- :past:
+  - dwelt
+  :present: dwelling
+- :past:
+  - ate
+  :present: eating
+- :past:
+  - fell
+  :present: falling
+- :past:
+  - fed
+  :present: feeding
+- :past:
+  - felt
+  :present: feeling
+- :past:
+  - fought
+  :present: fighting
+- :past:
+  - found
+  :present: finding
+- :past:
+  - fit
+  - fitted
+  :present: fitting
+- :past:
+  - fled
+  :present: fleeing
+- :past:
+  - flung
+  :present: flinging
+- :past:
+  - flew
+  :present: flying
+- :past:
+  - forbade
+  - forbad
+  :present: forbidding
+- :past:
+  - forecast
+  - forecasted
+  :present: forecasting
+- :past:
+  - foresaw
+  :present: foreseeing
+- :past:
+  - foretold
+  :present: foretelling
+- :past:
+  - forgot
+  :present: foregetting
+- :past:
+  - forgave
+  :present: forgiving
+- :past:
+  - forsook
+  :present: forsaking
+- :past:
+  - froze
+  :present: freezing
+- :past:
+  - frostbit
+  :present: frostbiting
+- :past:
+  - got
+  :present: getting
+- :past:
+  - gave
+  :present: giving
+- :past:
+  - went
+  :present: going
+- :past:
+  - ground
+  :present: grinding
+- :past:
+  - grew
+  :present: growing
+- :past:
+  - handwrote
+  :present: handwriting
+- :past:
+  - hung
+  - hanged
+  :present: hanging
+- :past:
+  - had
+  :present: having
+- :past:
+  - heard
+  :present: hearing
+- :past:
+  - hid
+  :present: hiding
+- :past:
+  - hit
+  :present: hitting
+- :past:
+  - held
+  :present: holding
+- :past:
+  - hurt
+  :present: hurting
+- :past:
+  - inlaid
+  :present: inlaying
+- :past:
+  - input
+  - inputted
+  :present: inputting
+- :past:
+  - interlaid
+  :present: interlaying
+- :past:
+  - kept
+  :present: keeping
+- :past:
+  - knelt
+  - kneeled
+  :present: kneeling
+- :past:
+  - knit
+  - knitted
+  :present: knitting
+- :past:
+  - knew
+  :present: knowing
+- :past:
+  - laid
+  :present: laying
+- :past:
+  - led
+  :present: leading
+- :past:
+  - leant
+  - leaned
+  :present: leaning
+- :past:
+  - leapt
+  - leaped
+  :present: leaping
+- :past:
+  - learnt
+  - learned
+  :present: learning
+- :past:
+  - left
+  :present: leaving
+- :past:
+  - lent
+  :present: lending
+- :past:
+  - let
+  :present: letting
+- :past:
+  - lay
+  :present: lying
+- :past:
+  - lied
+  :present: lying
+- :past:
+  - lit
+  :present: lighting
+- :past:
+  - lost
+  :present: losing
+- :past:
+  - made
+  :present: making
+- :past:
+  - meant
+  :present: meaning
+- :past:
+  - met
+  :present: meeting
+- :past:
+  - melted
+  :present: melting
+- :past:
+  - misled
+  :present: misleading
+- :past:
+  - mistook
+  :present: mistaking
+- :past:
+  - misunderstood
+  :present: misunderstanding
+- :past:
+  - miswed
+  - miswedded
+  :present: miswedding
+- :past:
+  - mowed
+  :present: mowing
+- :past:
+  - overdrew
+  :present: overdrawing
+- :past:
+  - overheard
+  :present: overhearing
+- :past:
+  - overtook
+  :present: overtaking
+- :past:
+  - paid
+  :present: paying
+- :past:
+  - preset
+  :present: presetting
+- :past:
+  - proved
+  :present: proving
+- :past:
+  - put
+  :present: putting
+- :past:
+  - quit
+  :present: quitting
+- :past:
+  - re-proved
+  :present: re-proving
+- :past:
+  - read
+  :present: reading
+- :past:
+  - rid
+  - ridded
+  :present: ridding
+- :past:
+  - rode
+  :present: riding
+- :past:
+  - rang
+  :present: ringing
+- :past:
+  - rose
+  :present: rising
+- :past:
+  - rived
+  :present: riving
+- :past:
+  - ran
+  :present: running
+- :past:
+  - sawed
+  :present: sawing
+- :past:
+  - said
+  :present: saying
+- :past:
+  - saw
+  :present: seeing
+- :past:
+  - sought
+  :present: seeking
+- :past:
+  - sold
+  :present: selling
+- :past:
+  - sent
+  :present: sending
+- :past:
+  - set
+  :present: setting
+- :past:
+  - sewed
+  :present: sewing
+- :past:
+  - shook
+  :present: shaking
+- :past:
+  - shaved
+  :present: shaving
+- :past:
+  - shore
+  - sheared
+  :present: shearing
+- :past:
+  - shed
+  :present: shedding
+- :past:
+  - shone
+  :present: shining
+- :past:
+  - shod
+  :present: shoeing
+- :past:
+  - shot
+  :present: shooting
+- :past:
+  - showed
+  :present: showing
+- :past:
+  - shrank
+  :present: shrinking
+- :past:
+  - shut
+  :present: shutting
+- :past:
+  - sang
+  :present: singing
+- :past:
+  - sank
+  :present: sinking
+- :past:
+  - sat
+  :present: sitting
+- :past:
+  - slew
+  :present: slaying
+- :past:
+  - slept
+  :present: sleeping
+- :past:
+  - slid
+  :present: sliding
+- :past:
+  - slung
+  :present: slinging
+- :past:
+  - slunk
+  :present: slinking
+- :past:
+  - slit
+  :present: slitting
+- :past:
+  - smelt
+  - smelled
+  :present: smelling
+- :past:
+  - sneaked
+  - snuck
+  :present: sneaking
+- :past:
+  - soothsaid
+  :present: soothsaying
+- :past:
+  - sowed
+  :present: sowing
+- :past:
+  - spoke
+  :present: speaking
+- :past:
+  - sped
+  - speeded
+  :present: speeding
+- :past:
+  - spelt
+  - spelled
+  :present: spelling
+- :past:
+  - spent
+  :present: spending
+- :past:
+  - spilt
+  - spilled
+  :present: spilling
+- :past:
+  - span
+  - spun
+  :present: spinning
+- :past:
+  - spat
+  - spit
+  :present: spitting
+- :past:
+  - split
+  :present: splitting
+- :past:
+  - spoilt
+  - spoiled
+  :present: spoiling
+- :past:
+  - spread
+  :present: spreading
+- :past:
+  - sprang
+  :present: springing
+- :past:
+  - stood
+  :present: standing
+- :past:
+  - stole
+  :present: stealing
+- :past:
+  - stuck
+  :present: sticking
+- :past:
+  - stung
+  :present: stinging
+- :past:
+  - stank
+  :present: stinking
+- :past:
+  - strode
+  - strided
+  :present: striding
+- :past:
+  - struck
+  :present: striking
+- :past:
+  - strung
+  :present: stringing
+- :past:
+  - stript
+  - stripped
+  :present: stripping
+- :past:
+  - strove
+  :present: striving
+- :past:
+  - sublet
+  :present: subletting
+- :past:
+  - sunburned
+  - sunburnt
+  :present: sunburning
+- :past:
+  - swore
+  :present: swearing
+- :past:
+  - sweat
+  - sweated
+  :present: sweating
+- :past:
+  - swept
+  - sweeped
+  :present: sweeping
+- :past:
+  - swelled
+  :present: swelling
+- :past:
+  - swam
+  :present: swimming
+- :past:
+  - swung
+  :present: swinging
+- :past:
+  - took
+  :present: taking
+- :past:
+  - taught
+  :present: teaching
+- :past:
+  - tore
+  :present: tearing
+- :past:
+  - told
+  :present: telling
+- :past:
+  - thought
+  :present: thinking
+- :past:
+  - throve
+  - thrived
+  :present: thriving
+- :past:
+  - threw
+  :present: throwing
+- :past:
+  - thrust
+  :present: thrusting
+- :past:
+  - trod
+  :present: treading
+- :past:
+  - underwent
+  :present: undergoing
+- :past:
+  - understood
+  :present: understanding
+- :past:
+  - undertook
+  :present: undertaking
+- :past:
+  - upsold
+  :present: upselling
+- :past:
+  - upset
+  :present: upsetting
+- :past:
+  - vext
+  - vexed
+  :present: vexing
+- :past:
+  - woke
+  :present: waking
+- :past:
+  - wore
+  :present: wearing
+- :past:
+  - wove
+  :present: weaving
+- :past:
+  - wed
+  - wedded
+  :present: wedding
+- :past:
+  - wept
+  :present: weeping
+- :past:
+  - wended
+  - went
+  :present: wending
+- :past:
+  - wet
+  - wetted
+  :present: wetting
+- :past:
+  - won
+  :present: winning
+- :past:
+  - wound
+  :present: winding
+- :past:
+  - withdrew
+  :present: withdrawing
+- :past:
+  - withheld
+  :present: withholding
+- :past:
+  - withstood
+  :present: withstanding
+- :past:
+  - wrung
+  :present: wringing
+- :past:
+  - wrote
+  :present: writing
+- :past:
+  - zinced
+  - zincked
+  :present: zincking

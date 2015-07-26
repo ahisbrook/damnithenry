@@ -2,7 +2,7 @@ require 'sinatra'
 require 'twitter'
 
 lib_path = File.expand_path('../lib', __FILE__)
-require "#{lib_path}/apology_generator"
+require "#{lib_path}/apology_generator.rb"
 
 class DamnitHenry < Sinatra::Base
   set :show_exceptions, true
